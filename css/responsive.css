@@ -20,7 +20,12 @@
 
     .quick-notes ul {
         display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
 
+    ul li {
+        width: 33%;
     }
 
     .social-networks .btn {
