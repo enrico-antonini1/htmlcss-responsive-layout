@@ -1,0 +1,45 @@
+/* Soluzione qui */
+
+@media  screen and (min-width: 768px) {
+#topbar {
+        justify-content: left;
+    }
+
+    .container {
+        padding: 20px 10px;
+    }
+
+    .recipe-origin {
+        display: inline;
+    }
+
+    .recipe-name {
+        font-size: 2em;
+    }
+
+    .quick-notes ul {
+        display: flex;
+            
+    }
+
+    .social-networks .btn {
+        padding: 10px 50px;
+        
+    }
+
+    .ads {
+        display: inline;
+        
+    }
+
+    .social-networks {
+        margin-bottom: 40px;
+    }
+
+    .clearfix img {
+        float: inline-start;
+        margin-right: 10px;
+    }
+
+          
+}
